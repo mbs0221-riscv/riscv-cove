@@ -1,0 +1,18 @@
+[submodule "buildroot"]
+	path = buildroot
+	url = git@github.com:rivosinc/buildroot.git
+[submodule "salus"]
+	path = salus
+	url = https://github.com/rivosinc/salus.git
+[submodule "qemu"]
+	path = qemu
+	url = https://github.com/rivosinc/qemu.git
+[submodule "kvmtool"]
+	path = kvmtool
+	url = git@github.com:rivosinc/kvmtool.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:rivosinc/linux.git
+[submodule "dtc"]
+	path = dtc
+	url = git://git.kernel.org/pub/scm/utils/dtc/dtc.git
